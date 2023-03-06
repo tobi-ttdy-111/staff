@@ -1,6 +1,5 @@
 
 일하다
-FE - Repasar c5                                                       - 06 - 03 - m 
 FE - Repaso global + hacer lista de videos                            - 06 - 03 - m
 CA - Suma de Reimar ( 4 pasos ) repaso y apunte tema                  - 06 - 03 - m
 CA - Practicar Reiman                                                 - 06 - 03 - m
@@ -14,10 +13,21 @@ AL - Terminar lista 2                                                 - 08 - 03 
 
 
 선생님 FUNDAMENTOS ECONOMICOS - 2CM3 - FE
-tareas extensas
-exigente al calificar tareas
-asistencia
-examenes largos y complicados
+observations {
+  - tareas extensas
+  - exigente al calificar tareas
+  - asistencia
+  - examenes largos y complicados
+}
+material {
+  - c1 - concepto de escazes: https://www.youtube.com/watch?v=IUGotDZIb40&t
+  - c2 - porque noruega es tan rico: https://www.youtube.com/watch?v=aJBNVbP_Efw
+  - c3 - principales problemas economicos I: https://www.youtube.com/watch?v=dyGJUNmsXhY
+  - c3 - principales problemas economicos II: https://www.youtube.com/watch?v=as4FEYwbRus
+  - c5 - agentes economicos I: https://www.youtube.com/watch?v=HU2ED9EasTI
+  - c5 - agentes economicos II: https://www.youtube.com/watch?v=On1P-KdiCBg
+}
+
 
 선생님 INGENIERIA ETICA Y SOCIEDAD - 2CV1 - IE
 barco
